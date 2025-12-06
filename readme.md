@@ -15,13 +15,13 @@ h-bridge: TB6612FNG
 
 sensors: HY-S301
 
-batteries:
+batteries: Li-ion batterij 18650 3,7V 99900mAh
 
-wireless communication:
+wireless communication: Bluethoot met ESP32D
 
-distance sensor - motors:
+distance sensor - motors: 
 
 weight:
 
-speed: 
+speed: 0.51 m/s
 
