@@ -7,13 +7,13 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ESP32D DevKit v1
 
-motors: 
+motors: DC 6V N20 Mini Micro Metal Gear Motor Met Gearwheel
 
-h-bridge:
+h-bridge: TB6612FNG
 
-sensors:
+sensors: HY-S301
 
 batteries:
 
